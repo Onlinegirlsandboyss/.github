@@ -14,7 +14,19 @@
 *.app
 #Rapid Application Development File
 rad.json
-#Translation Base-file
+#Tragucci
+
+
+
+
+
+
+
+
+
+
+
+nslation Base-file
 *.g.xlf
 #License-file
 *.flf
